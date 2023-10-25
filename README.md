@@ -53,11 +53,11 @@ def get_resnet_encoder(input_height=1024, input_width=2048, pretrained='imagenet
 在Intel DevCloud环境中进行了运行测试。
 主要实验环境如下：
 
-![image-20231025092047580](C:\Users\13445\AppData\Roaming\Typora\typora-user-images\image-20231025092047580.png)
+![image-20231025092047580](./images\1.png)
 
 
 
-![image-20231025092137640](C:\Users\13445\AppData\Roaming\Typora\typora-user-images\image-20231025092137640.png)
+![image-20231025092137640](./2.png)
 
 ## 感受
 
